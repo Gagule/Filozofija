@@ -1,0 +1,25 @@
+﻿body {
+            background-color: #ffffff;
+            background-repeat: no-repeat;
+            background-position: top left;
+            background-attachment: fixed;
+        }
+
+        h1 {
+            font-family: Times, serif;
+            color: dodgerblue;
+            background-color: white;
+        }
+
+        pre {
+            font-family: Times, serif;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: normal;
+            color: white;
+            background-color: dodgerblue;
+        }
+        header{
+            background-color: darkslategrey;
+            font-size: 20px;
+        }
